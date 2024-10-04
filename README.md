@@ -28,6 +28,7 @@ generation of the synthesised data.
 ## Dataset: mbpp | Mostly Basic Python Problems
   * Language: English - Python code
   * Data Splits: train, evaluation, test, prompt
+    
 
 ## Model: croissantllm/CroissantLLMChat-v0.1
   * Size: 1.3 Billion parameters
@@ -35,9 +36,13 @@ generation of the synthesised data.
   * Task: Text2Text Generation
   * Training Data: 3 Trillion tokens (3T) of text
   * Applications: Machine translation, Text generation
+    
   
-## Evaluation Result of Fine-tuned Models:
+## Evaluation Results of Fine-tuned Models:
   * model A  —> BLEU score = 0.229
   * model B  —> BLEU score = 0.267
   * model C  —> BLEU score = 0.248
   * model D  —> BLEU score = 0.271
+
+
+![alt text](https://github.com/mehrdad-bhm/Gen-AI/blob/main/Evaluation%20Results.png)
