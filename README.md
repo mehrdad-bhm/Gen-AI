@@ -25,7 +25,7 @@ generation of the synthesised data.
   * Plot the right visualisation to show all models' performance.
 
 
-## Dataset: mbpp | Mostly Basic Python Problems
+## Dataset: MBPP | Mostly Basic Python Problems
   * Language: English - Python code
   * Data Splits: train, evaluation, test, prompt
     
