@@ -1,7 +1,7 @@
 # Gen-AI
 
 ### Abstract
-Fine-tuning CroissantLLM with a syntactic dataset merged with MBPP to improve model performance in handling Python coding challenges.
+Fine-tune CroissantLLM via syntactic dataset merged with MBPP to improve model performance in handling Python coding challenges.
 
 ### Objective
 The primary objective of this project is to show the ability to fine-tune to enhance the
