@@ -3,7 +3,7 @@
 ### Abstract
 Fine-tuning CroissantLLM with a syntactic dataset merged with MBPP to improve model performance in handling Python coding challenges.
 
-### Body
+### Objective
 The primary objective of this project is to show the ability to fine-tune to enhance the
 model performance in a specific task. Also, it will show how existing large language
 models can be used in the data collection process to enhance relatively small models.
