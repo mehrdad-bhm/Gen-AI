@@ -171,25 +171,3 @@ Response: "To discard structure results, ensure that the data processing pipelin
 
 Sources: ["document1.pdf", "document2.pdf"]
 ```
-
----
-
-## Usage Instructions
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo-name.git
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Place your PDF documents in the `data` directory.
-4. Run the script to generate the vector database and query results.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
