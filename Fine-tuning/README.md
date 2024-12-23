@@ -1,4 +1,4 @@
-# Gen-AI
+# Fine-tuning a LLM
 
 ### Abstract
 Fine-tune CroissantLLM via syntactic dataset merged with MBPP to improve model performance in handling Python coding challenges.
