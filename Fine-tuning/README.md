@@ -50,4 +50,4 @@ generation of the synthesised data.
   * model D  —> BLEU score = 0.271
 
 
-![alt text](https://github.com/mehrdad-bhm/Gen-AI/blob/main/Evaluation%20Results.png)
+![alt text](https://github.com/mehrdad-bhm/Gen-AI/blob/main/Fine-tuning/Evaluation%20Results.png)
