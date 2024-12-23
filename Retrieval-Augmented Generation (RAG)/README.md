@@ -115,33 +115,3 @@ Query: "Explain the benefits of RAG in AI."
 Response: "Retrieval-Augmented Generation (RAG) combines the strengths of retrieval systems and generative models to create accurate and contextually relevant responses. It ensures up-to-date information by leveraging external knowledge bases."
 ```
 
----
-
-## Usage Instructions
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/mehrdad-bhm/Gen-AI.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd Retrieval-Augmented\ Generation\ \(RAG\)
-   ```
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Open the Jupyter Notebook and follow the steps.
-
----
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
