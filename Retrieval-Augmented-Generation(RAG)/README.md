@@ -6,7 +6,7 @@ This repository demonstrates a comprehensive implementation of a **Retrieval-Aug
 
 A key feature of RAG is **similarity search**, which retrieves the most relevant context from a collection of documents based on vector embeddings. The retrieved context is then used as input for an LLM to produce accurate and tailored responses. In this implementation, **ChromaDB** is used as the vector database for efficient similarity search, with options to use **FAISS** for high-performance alternatives.
 
-Additionally, this code highlights three approaches to using LLMs:
+Additionally, this code highlights three approaches to using LLMs: 
 1. **Hugging Face Endpoint**
 2. **Hugging Face Pipeline**
 3. **OpenAI API**
