@@ -27,7 +27,7 @@ generation of the synthesised data.
   suitable seeds.
   * Fine-tune model A on the new Combined dataset [Model D].
   * Test model D on the testing dataset using the selected evaluation metric.
-  * Plot the right visualisation to show all models' performance.
+  * Plot the right visualisation to show all models' performance. 
 
 
 ## Dataset: MBPP | Mostly Basic Python Problems
